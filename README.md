@@ -8,10 +8,10 @@
      
 
 
-[![Snehansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssiddharth00703&show_icons=true&theme=radical)](https://github.com/Ssiddharth00703/github-readme-stats)
+[![Snehansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ssiddharth007&show_icons=true&theme=radical)](https://github.com/Ssiddharth007/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssiddharth007&show_icons=true&theme=radical)](https://github.com/Ssiddharth00703/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssiddharth007&show_icons=true&theme=radical)](https://github.com/Ssiddharth007/github-readme-stats)
 
 <!--
 **Ssiddharth007/Ssiddharth007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
