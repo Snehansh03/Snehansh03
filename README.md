@@ -1,5 +1,5 @@
 ### Hi there, This is Snehansh Siddharth 👋 
-- 🔭 I’m currently working on Cyber Security
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 How to reach me: 
 
